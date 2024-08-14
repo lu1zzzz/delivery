@@ -1,0 +1,380 @@
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.blueHeader{
+    background-color: #2C5381;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ 
+}
+.blueHeader1{
+    background-color: #2C5381;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    color: #FFDB58;
+    align-items: center;
+    width: 100%;
+   font-size: 24px;
+}
+.logo{
+    height: 64px;
+}
+.logo1{
+    height: 64px;
+    margin-left: 20px;
+}
+.logo2{
+    height: 64px;
+    margin-left: 20px;
+    display: flex;
+}
+.text{
+    text-decoration: none;
+    color: #FFDB58;
+    margin-left: 197px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.littecar{
+    fill: #FFDB58;
+    height: 20px;
+    margin-left: 200px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 540px;
+    margin-top: 20px;
+}
+.text1{
+    color:#2C5381 ;
+    margin-top: 40px;
+    font-weight: 670;
+    font-size: 28px;
+    margin-left: 120px;
+}
+.ha1 img{
+   Border-radius: 30px; Height: 200px; 
+}
+.ha1{
+    Margin-top: 20px;
+    
+}
+.price{
+    color: #1B555D;
+    margin-left: 110px;
+    font-size: 25px;
+    font-weight: 570;
+    margin-top: 10px;
+}
+.ha2 img{
+    Border-radius: 30px; 
+    Height: 200px;
+}
+.ha2{
+    Margin-top: 20px;
+   
+}
+.ha3 img{
+    Border-radius: 30px; 
+    Height: 200px;
+}
+.ha3{
+    Margin-top: 20px;
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bluefooter{
+    background-color: #2C5381;
+    height: 70px;
+    margin-top: 9%;
+    display: flex;
+   
+}
+.insta{
+    height: 41px;
+    fill: #FFDB58;
+    margin-left: 5%;
+}
+.face{
+    height: 41px;
+    fill: #FFDB58;
+}
+.twiter{
+    height: 41px;
+    fill: #FFDB58;
+}
+.socialmidia{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10%;
+}
+.arroba{
+    color: #FFDB58;
+    display: flex;
+    align-items: center;
+    margin-left: 3%;
+}
+.phone{
+    display: flex;
+    justify-content: end;
+    height: 41px;
+    fill: #FFDB58;
+    color: #FFDB58;
+    align-items: center;
+    margin-left: 700px;
+    text-align: center;
+    margin-top: 10px;
+}
+.text3{
+    color: #2C5381;
+    font-size: 26px;
+    margin-left: 24%;
+    margin-top: 2%;
+    font-weight: 700;
+}
+.ha4{
+    Border-radius: 30px; 
+    Height: 200px;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+.yellowbar{
+    height: 200px;
+    width: 10px;
+    background-color: #FFDB58;
+    color: #FFDB58;
+    margin-left: 10%;
+    margin-top: 2%;
+   
+}
+.flex1{
+    display: flex;
+    justify-content: center;
+}
+.bluebar{
+    background-color: #2C5381;
+    height: 200px;
+    width: 600px;
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    align-items: center;
+    display: flex;
+    font-family: "Inder", sans-serif;
+}
+.text4{
+    margin-left: 31%;
+    margin-top: 1%;
+    font-family: "Inknut Antiqua", serif;
+    font-size: 19px;
+}
+.flex2{
+    display: flex;
+   margin-left: 1180px;
+    cursor: pointer;
+}
+.flex2 button{
+    color: aliceblue;
+    background-color: #1C324B;
+    font-family: "Inder", sans-serif;
+    font-style: bold;
+    width: 22%;
+    height: 27px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 40px;
+    width: 270px;
+}
+.ha5{
+    Border-radius: 30px; 
+    Height: 222px;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+.ha6{
+    Border-radius: 30px; 
+    Height: 222px;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+.text5{
+    color: #2C5381;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 30px;
+    margin-left: 8%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+.text6{
+    color: black;
+    font-size:larger;
+    font-style: bold;
+    font-weight: 640;
+    margin-left: 10%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text5 :hover{
+    color: #FFDB58;
+    Transform: Scale(1.2);
+    margin-left: 8%;
+}
+.text6 :hover{
+    margin-left: 10%;
+    transform: scale(1.2);
+    color: #7986B4;
+    margin-right: 10%;
+}
+.fundoLogin{
+    background-color: #2C5381;
+    }
+    .fundologin2{
+        background-color:#1C324B;
+        width: 60%;
+        margin: auto;
+    }
+    .login1{
+        color: white;
+        padding-top: 9%;
+        margin-left: 8%;
+        font-size: 20px;
+        font-weight: 570;
+    }
+    .linha{
+        width: 10%;
+        height: 1px;
+        background-color: white;
+        margin-top: 2%;
+        margin-left: 8%;
+    }
+    .user{
+        color: white;
+        margin-top: 10%;
+        margin-left: 8%;
+        font-size: 20px;
+        font-weight: 570;
+    }
+    .linha2{
+        width: 80%;
+        height: 1px;
+        background-color: white;
+        margin-left: 8%;
+    }
+    .login2{
+        color: black;
+        text-align: center;
+        margin: 9%;
+        
+    }
+    .login2 button{
+        background-color: #FFDB58;
+        border: none;
+        cursor: pointer;
+        padding-left: 18%;
+        padding-right: 18%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        font-size: 20px;
+        font-weight: 550;
+    }
+    .registrar{
+        margin-top: 3%;
+        text-align: center;
+        color: white;
+        font-size: 21px;
+        cursor: pointer;
+    }
+    .user1{
+        color: white;
+        margin-top: 4%;
+        margin-left: 8%;
+        font-size: 23px;
+        font-weight: 570;
+    }
+    .cadastro2{
+     color: black;
+     text-align: center;
+     margin: 9%;
+     margin-bottom: 12px;
+    
+    }
+    .cadastro2 button{
+        background-color: #FFDB58;
+        border: none;
+        cursor: pointer;
+        padding-left: 18%;
+        padding-right: 18%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        font-size: 20px;
+        font-weight: 550;
+        margin-bottom: 15px;
+    }
+    .inputo{
+        background-color: transparent;
+        margin-left: 8%;
+        border: none;
+        width: 80%;
+        color: white ;
+       margin-top: 20px;
+    }
+.pedidos{
+    text-align: center;
+    font-size: 33px;
+    font-weight: 600;
+    color: #1B555D;
+    margin-top: 23px;
+}
+.linha3{
+    background-color: black;
+    width: 19%;
+    height: 3px;
+    margin-left: 790px;
+    margin-top: 8px;
+}
+.chose{
+    margin-top: 100px;
+text-align: center;
+    font-size: 30px;
+    font-weight: 560;
+}
+.ali{
+    text-align: center;
+    margin-top: 70px;
+}
+.pedir button{
+    color: aliceblue;
+    background-color: #1C324B;
+    font-family: "Inder", sans-serif;
+    font-style: bold;
+    width: 22%;
+    height: 27px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 40px;
+    width: 270px;
+    margin-left: 820px;
+    margin-top: 80px;
+}
